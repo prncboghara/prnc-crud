@@ -1,5 +1,5 @@
 # prnc-crud
-Learing laravel package install
+how to install laravel packages
 <h1> How To Install simple Package in laravel</h1>
 <ol>
 <li>Fire command on your terminal "composer require prnc/crud"</li>

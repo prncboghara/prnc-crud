@@ -1,0 +1,14 @@
+{
+    "name": "prnc/crud",
+    "description": "This Command is Use To simple crude genrate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "prnc",
+            "email": "prncboghara@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
